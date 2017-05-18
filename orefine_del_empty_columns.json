@@ -1,0 +1,67 @@
+[
+  {
+    "op": "core/column-removal",
+    "description": "Remove column beneficiary_address",
+    "columnName": "beneficiary_address"
+  },
+  {
+    "op": "core/column-removal",
+    "description": "Remove column beneficiary_county",
+    "columnName": "beneficiary_county"
+  },
+  {
+    "op": "core/column-removal",
+    "description": "Remove column beneficiary_person",
+    "columnName": "beneficiary_person"
+  },
+  {
+    "op": "core/column-removal",
+    "description": "Remove column beneficiary_url",
+    "columnName": "beneficiary_url"
+  },
+  {
+    "op": "core/column-removal",
+    "description": "Remove column cci_program_code",
+    "columnName": "cci_program_code"
+  },
+  {
+    "op": "core/column-removal",
+    "description": "Remove column final_payment_date",
+    "columnName": "final_payment_date"
+  },
+  {
+    "op": "core/column-removal",
+    "description": "Remove column first_payment_date",
+    "columnName": "first_payment_date"
+  },
+  {
+    "op": "core/column-removal",
+    "description": "Remove column operational_programme",
+    "columnName": "operational_programme"
+  },
+  {
+    "op": "core/column-removal",
+    "description": "Remove column project_status",
+    "columnName": "project_status"
+  },
+  {
+    "op": "core/column-removal",
+    "description": "Remove column source",
+    "columnName": "source"
+  },
+  {
+    "op": "core/column-removal",
+    "description": "Remove column theme_code",
+    "columnName": "theme_code"
+  },
+  {
+    "op": "core/column-removal",
+    "description": "Remove column total_amount_applied",
+    "columnName": "total_amount_applied"
+  },
+  {
+    "op": "core/column-removal",
+    "description": "Remove column third_party_amount",
+    "columnName": "third_party_amount"
+  }
+]
