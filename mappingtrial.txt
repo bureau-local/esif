@@ -1,0 +1,8 @@
+ERDF_ESF_2007_2020: 
+beneficiary_name,project_name,fund_acronym,project_description,starting_date,completion_date,eu_cofinancing_amount_eligible,total_amount_eligible,eu_cofinancing_rate,beneficiary_postal_code,management_authority,beneficiary_country,priority_label,amount,amount_kind,approval_date,beneficiary_address,beneficiary_city,beneficiary_country_code,beneficiary_county,beneficiary_id,beneficiary_nuts_code,beneficiary_nuts_region,beneficiary_person,beneficiary_url,cci_program_code,currency,eu_cofinancing_amount,final_payment_date,first_payment_date,funding_period,member_state_amount,operational_programme,priority_number,project_status,source,theme_code,theme_name,third_party_amount,total_amount,total_amount_applied
+
+Fisheries_2016: Convergence/Unconvergence,Axis,Beneficiary,Project title,EFF Grant,MMO Grant,Ref
+
+Agricultural 2014, 2015: year,recipient_id,recipient_name,recipient_postcode,recipient_location,agency,scheme,amount,country,currency
+
+FTS: Commitment position key,Year,Name of beneficiary,Coordinator,VAT Number of beneficiary,Address,City,Postal code,Country / Territory,Amount,NUTS2,Geographical Zone,Expense Type,Total amount,Subject of grant or contract,Responsible Department,Budget line name and number,Action Type,Funding Type
