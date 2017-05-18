@@ -15,3 +15,7 @@ The data for 2016 is now uploaded.
 2015 and 2016 are still missing. 
 
 The datasets can be merged using the ESIF data model developed for subsidystories.eu. 
+
+Next steps:
+- Map columns per fund
+- Merge Files (with script)
