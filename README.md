@@ -19,3 +19,5 @@ The datasets can be merged using the ESIF data model developed for subsidystorie
 Next steps:
 - Map columns per fund
 - Merge Files (with script)
+
+Many people are involved in this project, including but not limited to OKFDE (Open Knowledge Fundation Germany), The Alan Turing Institute and The Bureau of Investigative Journalism
