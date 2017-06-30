@@ -20,4 +20,11 @@ Next steps:
 - Map columns per fund
 - Merge Files (with script)
 
+Potential Next Steps / Ideas:
+- foi to break down project further
+- add column(s) for local authorities
+- private / public / ngo
+- industry filter
+- search for most commun word in project names and avg funding for the words.
+
 Many people are involved in this project, including but not limited to OKFDE (Open Knowledge Fundation Germany), The Alan Turing Institute and The Bureau of Investigative Journalism
