@@ -12,9 +12,6 @@ for file_index, filename in enumerate(csvfiles):
 	for row_index, row in enumerate(csv_reader):
 		# this will print the header
 		if row_index == 0 and file_index == 0:
-			csv_writer.writerow
-		# this will make sure headers only get writed ounce
-		if row_index == 0 and file_index != 0:
-			continue
-		if row[8] != "United Kingdom":
+			csv_writer.writerow(row)
+		if row[8] == "United Kingdom":
 			csv_writer.writerow(row)
